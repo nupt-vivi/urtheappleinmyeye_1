@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"> Graduation Design--copyright@2012vivi</string>
+    <string name="app_name">MulThreadDownloaderr</string>
+    <string name="path">please enter pathUrl:</string>
+    <string name="downloadbutton">click to download</string>
+    <string name="sdcarderror">sdcarderror</string>
+</resources>
